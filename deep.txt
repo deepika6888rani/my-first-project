@@ -1,0 +1,10 @@
+pwd= print working diractroy
+cd=change dirc.
+ls=list (it will show all the fill)
+mkdir =(folder  creat)
+touch  (file creat)
+rm (remove file)
+rmdir(remove folde or dir.)
+nano =to tyip somthing in a file
+mv =to move a file or folder
+cp to copy a file a follder
